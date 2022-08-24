@@ -1,1 +1,1 @@
-# outiPR
+usage: ぷるりく
